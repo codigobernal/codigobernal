@@ -9,6 +9,6 @@
 <!--Iconos de las tecnologías-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,css,figma,html,js,mysql,nodejs,postman,tailwind,vscode,php,laravel,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,js,php,laravel,github,figma,mysql,nodejs,postman,vscode" />
   </a>
 </p>
